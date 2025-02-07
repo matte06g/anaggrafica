@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xml_css.xsl" ?>
+<scuola>
+ <classe>
+ <utente>
+ <nome>Pino </nome>
+ <cognome>Rossi</cognome>
+ <eta>18</eta>
+ <recaptelefonico>3333333333</recaptelefonico>
+ <residenza>Cornaredo</residenza>
+ <indirizzo>Via Verdi 5</indirizzo>
+ <codicefiscale>aaaaaaaaaa</codicefiscale>
+ </utente>
+ </classe>
+ <classe>
+ <utente>
+ <nome>Nino</nome>
+ <cognome>Del Fabbro</cognome>
+ <eta>17</eta>
+ <recaptelefonico>33333333334</recaptelefonico>
+ <residenza>Rho</residenza>
+ <indirizzo>Via Rossi 5</indirizzo>
+ <codicefiscale>bbbbbbbbbb</codicefiscale>
+ </utente>
+ </classe>
+ <classe>
+ <utente>
+ <nome>Eolo</nome>
+ <cognome>Vento</cognome>
+ <eta>19</eta>
+ <recaptelefonico>3333333335</recaptelefonico>
+ <residenza>Magenta</residenza>
+ <indirizzo>Via Gialli 5</indirizzo>
+ <codicefiscale>tttttttttt</codicefiscale>
+ </utente>
+ </classe>
+ <classe>
+ <utente>
+ <nome>Gino</nome>
+ <cognome>Bianchi</cognome>
+  <eta>16</eta>
+ <recaptelefonico>3333333336</recaptelefonico>
+ <residenza>Arese</residenza>
+ <indirizzo>Via Bruni 5</indirizzo>
+ <codicefiscale>oooooooooo</codicefiscale>
+ </utente>
+ </classe>
+ </scuola> 
